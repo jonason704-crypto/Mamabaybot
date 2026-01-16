@@ -1,2 +1,0 @@
-# Mamabaybot
-Telegram microtask hub
