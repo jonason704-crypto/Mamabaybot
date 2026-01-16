@@ -1,0 +1,12 @@
+{
+  "name": "mamabaybot",
+  "version": "1.0.0",
+  "description": "Telegram microtask hub bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
